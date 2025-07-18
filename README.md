@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋
-<h3 align="center">A passionate full stack developer from United Kingdom</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on [Chairlift](https://chairlift.io/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **ROR, React and Redux**
 
