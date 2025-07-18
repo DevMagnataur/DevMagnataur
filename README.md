@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **ROR, React and Redux**
 
-- 📫 How to reach me **Shafay.javed1996@gmail.com**
-
 - ⚡ Fun fact **People think I am Funny :D**
 
 
